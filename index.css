@@ -17,10 +17,11 @@ body{
     background-attachment: fixed;
     font-family: -apple-system, 'SF Pro Rounded', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color:white;
+    font-size:40px;
 }
 
 input{
-    width: 25px;
+    width: 50px;
     padding: 3px;
     box-sizing: border-box;
     border: 1px solid white;
@@ -30,6 +31,7 @@ input{
     font-weight: bold;
     border-radius: 10px;
     text-align: center;
+    font-size:40px;
 }
 #name-el {
     width: 100%;
